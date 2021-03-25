@@ -32,7 +32,8 @@ body {
 }
 
 .task,
-.todo__task-name {
+.todo__task-name,
+.add__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
